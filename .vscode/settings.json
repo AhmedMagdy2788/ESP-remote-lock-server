@@ -1,0 +1,12 @@
+{
+    "terminal.integrated.env.windows": {
+        "PATH": "C:\\Users\\Deuts\\.platformio\\penv\\Scripts;C:\\Users\\Deuts\\.platformio\\penv;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\ATI Technologies\\ATI.ACE\\Core-Static;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\LLVM\\bin;C:\\Program Files\\Git\\cmd;C:\\Users\\Deuts\\AppData\\Local\\Android\\Sdk\\emulator;C:\\Users\\Deuts\\AppData\\Local\\Programs\\Python\\Python37-32\\Scripts\\;C:\\Users\\Deuts\\AppData\\Local\\Programs\\Python\\Python37-32\\;C:\\Users\\Deuts\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Deuts\\AppData\\Local\\atom\\bin;C:\\Users\\Deuts\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Flutter_SDK\\flutter\\bin;C:\\Users\\Deuts\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Deuts\\AppData\\Local\\Android\\Sdk\\platform-tools;C:\\Users\\Deuts\\AppData\\Local\\Android\\Sdk\\tools;C:\\Program Files\\Java\\jdk1.8.0_181\\bin;;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\ATI Technologies\\ATI.ACE\\Core-Static;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\LLVM\\bin;C:\\Program Files\\Git\\cmd;C:\\Users\\Deuts\\AppData\\Local\\Android\\Sdk\\emulator;C:\\Users\\Deuts\\AppData\\Local\\Programs\\Python\\Python37-32\\Scripts\\;C:\\Users\\Deuts\\AppData\\Local\\Programs\\Python\\Python37-32\\;C:\\Users\\Deuts\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Deuts\\AppData\\Local\\atom\\bin;C:\\Users\\Deuts\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Flutter_SDK\\flutter\\bin;C:\\Users\\Deuts\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Deuts\\AppData\\Local\\Android\\Sdk\\platform-tools;C:\\Users\\Deuts\\AppData\\Local\\Android\\Sdk\\tools;C:\\Program Files\\Java\\jdk1.8.0_181\\bin;",
+        "PLATFORMIO_CALLER": "vscode"
+    },
+    "editor.cursorBlinking": "expand",
+    "files.associations": {
+        "array": "cpp",
+        "initializer_list": "cpp",
+        "utility": "cpp"
+    }
+}
